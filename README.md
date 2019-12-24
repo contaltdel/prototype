@@ -18,4 +18,4 @@ Tasarım Desenine Ait Class Diagramı
 
 
 
-[Kaynak](http://harunozer.com/makale/prototype_tasarim_deseni__prototype_design_pattern.htm)
+[Tasarım Modeli Açıklama Kaynağı](http://harunozer.com/makale/prototype_tasarim_deseni__prototype_design_pattern.htm)
